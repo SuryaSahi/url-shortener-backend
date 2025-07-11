@@ -19,7 +19,6 @@ Images are also added...
    - VisitHistory (array of timestamps)
    - TotalClick (number)
    - createdAt and updatedAt
-   - expiresAt (optional)
 4. User accesses `/:shortId` to get redirected
 5. Visit is logged and analytics are updated
 
